@@ -6,7 +6,7 @@ package org.example;
  */
 public class App {
     public static void main( String[] args ) {
-        System.out.println("my test");
+        System.out.println("my test 2");
         System.out.println( "Hello World!" );
     }
 }
